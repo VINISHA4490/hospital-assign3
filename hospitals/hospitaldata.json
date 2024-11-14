@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "city hospital",
+    "patientCount": 150,
+    "location": "kannur"
+  },
+  {
+    "id": 2,
+    "hospitalName": "speciality",
+    "patientCount": 50,
+    "location": "Palakkad"
+  },
+  {
+    "id": 3,
+    "hospitalName": "MIMS hospital",
+    "patientCount": 350,
+    "location": "TVM"
+  },
+  {
+    "id": 4,
+    "hospitalName": "Baby memorial",
+    "patientCount": 400,
+    "location": "calicut"
+  },
+  {
+    "id": 5,
+    "hospitalName": "payyavoor",
+    "patientCount": 150,
+    "location": "kollam"
+  }
+]
